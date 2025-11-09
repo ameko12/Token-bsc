@@ -1,6 +1,6 @@
 {
-  "name": "USDT.z Token List",
-  "logoURI": "https://username.github.io/usdtz-token-assets/usdtz-logo.png",
+  "name": "USDT.z",
+  "logoURI": "https://github.com/ameko12/Token-bsc/blob/main/logotoken.png",
   "keywords": ["USDT", "USDT.z", "BSC"],
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "symbol": "USDT.z",
       "name": "USDT.z",
       "decimals": 18,
-      "logoURI": "https://username.github.io/usdtz-token-assets/usdtz-logo.png"
+      "logoURI": "https://github.com/ameko12/Token-bsc/blob/main/logotoken.png"
     }
   ]
 }
