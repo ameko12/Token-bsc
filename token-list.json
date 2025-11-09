@@ -1,0 +1,15 @@
+{
+  "name": "USDT.z Token List",
+  "logoURI": "https://username.github.io/usdtz-token-assets/usdtz-logo.png",
+  "keywords": ["USDT", "USDT.z", "BSC"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x43B8Fe63EBf09DD34ED2E69ddaa88ED6324aE8bc", 
+      "symbol": "USDT.z",
+      "name": "USDT.z",
+      "decimals": 18,
+      "logoURI": "https://username.github.io/usdtz-token-assets/usdtz-logo.png"
+    }
+  ]
+}
